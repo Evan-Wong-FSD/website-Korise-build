@@ -3,3 +3,5 @@
     "@babel/preset-env"
   ]
 }
+
+// if @babel/node fails to execute, install it globally.
