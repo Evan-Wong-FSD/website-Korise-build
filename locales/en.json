@@ -1,0 +1,27 @@
+{
+  "Menu": {
+    "about us": "About us",
+    "applied fields": "Applied fields",
+    "product introduction": "Product introduction",
+    "contact us": "Contact us",
+    "products": {
+      "label": "Products"
+    },
+    "fields": {
+      "label": "Fields"
+    }
+  },
+  "Applied fields": {
+    "title": "Applied fields",
+    "options": {
+      "clean room": "Clean room",
+      "hospital": "Hospital",
+      "hostel": "Hostel",
+      "manufacturing": "Manufacturing",
+      "plastic industry": "Plastic industry",
+      "printing industry": "Printing industry",
+      "spa": "Spa",
+      "swimming pool": "Swimming pool"
+    }
+  }
+}

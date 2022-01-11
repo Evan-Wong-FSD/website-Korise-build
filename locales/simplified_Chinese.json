@@ -1,0 +1,27 @@
+{
+  "Menu": {
+    "about us": "关于我们",
+    "applied fields": "应用领域",
+    "product introduction": "产品简介",
+    "contact us": "聯繫我們",
+    "products": {
+      "label": "产品名称"
+    },
+    "fields": {
+      "label": "产业领域"
+    }
+  },
+  "Applied fields": {
+    "title": "应用产业",
+    "options": {
+      "clean room": "无尘室",
+      "hospital": "医院",
+      "hostel": "旅馆",
+      "manufacturing": "制造业",
+      "plastic industry": "塑胶射出成型业",
+      "printing industry": "印刷业",
+      "spa": "spa会馆",
+      "swimming pool": "室内游泳池"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "name": "korise-website",
+  "version": "0.0.1",
+  "description": "korise-website",
+  "author": "Evan-Wong-FSD <kaiminghk@gmail.com>",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@quasar/cli": "1.2.2",
+    "axios": "0.21.4",
+    "core-js": "3.18.3",
+    "quasar": "2.1.8",
+    "vue-i18n": "9.1.9",
+    "vue-uuid": "2.0.2",
+    "vue-window-size": "1.1.2",
+    "vuex": "4.0.2",
+    "compression": "^1.0.0",
+    "express": "^4.0.0",
+    "vue": "3.2.20",
+    "@vue/server-renderer": "3.2.20",
+    "@vue/compiler-sfc": "3.2.20",
+    "@quasar/ssr-helpers": "2.1.1",
+    "vue-router": "4.0.12",
+    "@quasar/babel-preset-app": "2.0.1"
+  },
+  "engines": {
+    "node": ">= 12.22.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "quasar": {
+    "ssr": true
+  }
+}

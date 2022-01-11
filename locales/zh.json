@@ -1,0 +1,10 @@
+{
+  "tradtional_Chinese": {
+    "failed": "失敗",
+    "success": "成功"
+  },
+  "simplified_Chinese": {
+    "failed": "失败",
+    "success": "成功"
+  }
+}

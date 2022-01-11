@@ -1,0 +1,27 @@
+{
+  "Menu": {
+    "about us": "關於我們",
+    "applied fields": "應用領域",
+    "product introduction": "產品簡介",
+    "contact us": "聯繫我們",
+    "products": {
+      "label": "產品名稱"
+    },
+    "fields": {
+      "label": "產業領域"
+    }
+  },
+  "Applied fields": {
+    "title": "應用領域",
+    "options": {
+      "clean room": "無塵室",
+      "hospital": "醫院",
+      "hostel": "旅館",
+      "manufacturing": "製造業",
+      "plastic industry": "塑膠射出成型業",
+      "printing industry": "印刷業",
+      "spa": "spa會館",
+      "swimming pool": "室內游泳池"
+    }
+  }
+}
